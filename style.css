@@ -1,0 +1,68 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(./imgb.jpg) ;
+}
+ .container {
+     
+ }
+
+ .partie1{
+      display: flex;
+      padding: 65px;
+ }
+img{
+    height: 50px;
+    padding: 50px;
+}
+
+nav ul {
+    display: flex;
+    height: 50px;
+    padding: 50px;
+    top: 10px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+ul{
+    margin-bottom: 50px;
+}
+
+ul li{
+    position: relative;
+    display: inline-block;
+    margin-right: 52px;
+    border-radius: 25px;
+    
+}
+
+
+.but  .but1{
+    background-color: darksalmon;
+    border-radius: 35px;
+    margin-top: 30px;
+    
+}
+
+
+h1{
+  color: beige;
+  font-size: large;
+  text-align: center;
+  font-size: 35px;
+}
+p{
+   color: rgb(18, 19, 18);
+   font-size: large;
+   font-size: 20px;
+   text-align: center;
+}
+.but2{
+    background-color: rgb(19, 133, 33);
+    margin-left: 650px;
+
+}
